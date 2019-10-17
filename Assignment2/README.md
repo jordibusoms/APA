@@ -53,3 +53,12 @@ real	0m14.044s
 user	0m14.020s
 sys	0m0.016s
 
+##### input4, k = 1.5
+
+time python main_cheating.py input4.txt 1.5
+[loci: 1p, value: 1605] -> [loci: 1q, value: 1775] -> [loci: 2p, value: 1775] -> [loci: 2q, value: 1715] -> [loci: 3p, value: 1853] -> [loci: 3q, value: 1988] -> [loci: 4p, value: 1815] -> [loci: 4q, value: 1812] -> [loci: 5p, value: 1929] -> [loci: 5q, value: 1696] -> [loci: 6p, value: 1821] -> [loci: 6q, value: 1863] -> [loci: 7p, value: 1678] -> [loci: 7q, value: 1686] -> [loci: 8p, value: 1678] -> [loci: 8q, value: 1774] -> [loci: 9p, value: 1740] -> [loci: 9q, value: 1856] -> [loci: 10p, value: 1798] -> [loci: 10q, value: 1845] -> [loci: 11p, value: 1817] -> [loci: 11q, value: 1866] -> [loci: 12p, value: 2022] -> [loci: 12q, value: 1625] -> [loci: 13p, value: 1747] -> [loci: 13q, value: 1844] -> [loci: 14p, value: 1862] -> [loci: 14q, value: 1803] -> [loci: 15p, value: 1755] -> [loci: 15q, value: 1788] -> [loci: 16p, value: 1828] -> [loci: 16q, value: 1814] -> [loci: 17p, value: 1855] -> [loci: 17q, value: 1785] -> [loci: 18p, value: 1796] -> [loci: 18q, value: 1807] -> [loci: 19p, value: 1683] -> [loci: 19q, value: 1855] -> [loci: 20p, value: 1745] -> [loci: 20q, value: 1810] -> [loci: 21p, value: 1747] -> [loci: 21q, value: 1854] -> [loci: 22p, value: 1901] -> [loci: 22q, value: 1898] -> 
+
+real	39m48.481s
+user	32m50.316s
+sys	0m0.048s
+
